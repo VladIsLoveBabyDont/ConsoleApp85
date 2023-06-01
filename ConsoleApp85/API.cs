@@ -8,7 +8,10 @@ namespace ConsoleApp85
 {
     internal class API
     {
-
+        public static void Test()
+        {
+            Console.WriteLine("123");
+        } 
 
     }
 }
